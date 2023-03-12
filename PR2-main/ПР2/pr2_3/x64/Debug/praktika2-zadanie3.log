@@ -1,0 +1,8 @@
+﻿praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl figure::show(void)" (?show@figure@@QEAAXXZ) в функции main.
+praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl figure::is_prug(void)" (?is_prug@figure@@QEAA_NXZ) в функции main.
+praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl figure::is_square(void)" (?is_square@figure@@QEAA_NXZ) в функции main.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl figure::is_romb(void)" (?is_romb@figure@@QEAA_NXZ) в функции main.
+praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl figure::is_in_circle(void)" (?is_in_circle@figure@@QEAA_NXZ) в функции main.
+praktika2-zadanie3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl figure::is_out_circle(void)" (?is_out_circle@figure@@QEAA_NXZ) в функции main.
+D:\Курс 1\Дз\Индустриалка\ПР2\pr2_3\x64\Debug\praktika2-zadanie3.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
